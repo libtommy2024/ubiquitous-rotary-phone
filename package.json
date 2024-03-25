@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@libtommy2024/ubiquitous-rotary-phone",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/libtommy2024/ubiquitous-rotary-phone.git"
   },
   "dependencies": {
+    "@libtommy2024/curly-octo-guacamole": "^1.0.1",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
     "@scdb/simple-http": "^1.0.7",
     "@utilcode/simple-http": "^1.0.1"
   }
