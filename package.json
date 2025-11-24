@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/ubiquitous-rotary-phone",
-  "version": "15.52.509",
+  "version": "15.52.510",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -281,5 +281,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/ubiquitous-rotary-phone/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
